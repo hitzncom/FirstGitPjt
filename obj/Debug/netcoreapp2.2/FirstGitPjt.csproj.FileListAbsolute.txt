@@ -1,0 +1,11 @@
+/home/lee/gitTest/FirstGitPjt/bin/Debug/netcoreapp2.2/FirstGitPjt.deps.json
+/home/lee/gitTest/FirstGitPjt/bin/Debug/netcoreapp2.2/FirstGitPjt.runtimeconfig.json
+/home/lee/gitTest/FirstGitPjt/bin/Debug/netcoreapp2.2/FirstGitPjt.runtimeconfig.dev.json
+/home/lee/gitTest/FirstGitPjt/bin/Debug/netcoreapp2.2/FirstGitPjt.dll
+/home/lee/gitTest/FirstGitPjt/bin/Debug/netcoreapp2.2/FirstGitPjt.pdb
+/home/lee/gitTest/FirstGitPjt/obj/Debug/netcoreapp2.2/FirstGitPjt.csprojAssemblyReference.cache
+/home/lee/gitTest/FirstGitPjt/obj/Debug/netcoreapp2.2/FirstGitPjt.csproj.CoreCompileInputs.cache
+/home/lee/gitTest/FirstGitPjt/obj/Debug/netcoreapp2.2/FirstGitPjt.AssemblyInfoInputs.cache
+/home/lee/gitTest/FirstGitPjt/obj/Debug/netcoreapp2.2/FirstGitPjt.AssemblyInfo.cs
+/home/lee/gitTest/FirstGitPjt/obj/Debug/netcoreapp2.2/FirstGitPjt.dll
+/home/lee/gitTest/FirstGitPjt/obj/Debug/netcoreapp2.2/FirstGitPjt.pdb
