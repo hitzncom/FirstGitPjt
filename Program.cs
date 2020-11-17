@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace FirstGitPjt
 {
@@ -6,7 +6,7 @@ namespace FirstGitPjt
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World! LEE");
         }
     }
 }
